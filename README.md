@@ -1,1 +1,1 @@
-# hive3
+# hive tests examples
